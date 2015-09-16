@@ -6,4 +6,24 @@ First Edit
 
 Second Edit
 
+Third Edit
+
+Fourth Edit
+
+Edit Merge Conflict 
+
+Sixth Edit
+
+Seventh Edit
+
+Eigth Edit
+
+Ninth Edit 
+
 Tenth Edit
+
+Edit Merge Conflict Part 2
+
+Twelfth Edit
+
+Edit Merge Conflict Part 3
